@@ -1,5 +1,3 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Md Aquib Aslam </h1>
-
 ![github_cover_banner](https://b2662075.smushcdn.com/2662075/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif?lossy=0&strip=1&webp=1)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
