@@ -10,18 +10,63 @@
 
 - ⚡ Fun fact **"Did you know? My code not only runs flawlessly, but it also speaks fluent binary!" 🚀👾**
 - 
--Skills: C++ / PYTHON / C / HTML / CSS
+</div>
+</p>    
+<br>
+<!-- Languages and Tools -->
 
-- 🔭 I’m currently working on this page. 
+<h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
+<div align="center" style="display:block;">
+    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
+</div>
+<br>   
+<!-- Icons Resources -->
+<!-- https://devicon.dev/ -->
+<!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
+<div align="center">
+ 
+  </a>    
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+      <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+      <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
+  </a>
+</div>
+<br>
+<br>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aquibaslam1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdaquibaslam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aquibaslam8/)  
+<!-- Statistics -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aquibaslam1&show_icons=true&count_private=true)  
+<h2 style="color: #44AEFB">📊 Statistics</h2>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aquibaslam1)  
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aquibaslam1)  
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/aquibaslam1/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
 
-![Profile views](https://gpvc.arturio.dev/aquibaslam1)  
+![Aquib Aslam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aquibaslam1&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aquibaslam1&count_private=true&theme=algolia&border_radius=20)
+
+<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aquibaslam1&show_icons=true&theme=algolia&border_radius=20) -->
+    
+<!-- compact programming languages layout -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aquibaslam1&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
+<!--  End Stats Cards -->
+
+
+
 
