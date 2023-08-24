@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Md Aquib Aslam </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+![github_cover_banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 <h1 align="center">Hi 👋, I'm Md Aquib Aslam</h1>
@@ -14,7 +14,6 @@
 - 📫 How to reach me **aquibaslam9@gmail.com**
 
 - ⚡ Fun fact **"Did you know? My code not only runs flawlessly, but it also speaks fluent binary!" 🚀👾**
-- 
 </div>
 </p>    
 <br>
