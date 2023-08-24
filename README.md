@@ -1,6 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Md Aquib Aslam </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![github_cover_banner](https://b2662075.smushcdn.com/2662075/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif?lossy=0&strip=1&webp=1)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 <h1 align="center">Hi 👋, I'm Md Aquib Aslam</h1>
