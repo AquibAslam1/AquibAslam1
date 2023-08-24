@@ -1,3 +1,8 @@
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Md Aquib Aslam </h1>
+
+![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
+
+<p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 <h1 align="center">Hi 👋, I'm Md Aquib Aslam</h1>
 <h3 align="center">"Exploring Web Dev | Cybersecurity Enthusiast | Code, Coffee, and Creating Secure Online Experiences 🌐🔒"</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
