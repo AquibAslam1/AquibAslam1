@@ -12,7 +12,17 @@
 - 📫 How to reach me **aquibaslam9@gmail.com**
 
 - ⚡ Fun fact **"Did you know? My code not only runs flawlessly, but it also speaks fluent binary!" 🚀👾**
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aquibaslam1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdaquibaslam/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aquibaslam8/)  
+
+
+- <h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/mdaquibaslam" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="mdaquibaslam" height="70" width="70" /></a>
+<a href="https://instagram.com/aquibaslam8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="aquibaslam8" height="70" width="70" /></a>
+<a href="https://www.hackerrank.com/aquibaslam9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="aquibaslam9" height="70" width="70" /></a>
+<a href="https://www.leetcode.com/aquib01" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" alt="aquib01" height="70" width="70" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aquibaoesq" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="aquibaoesq" height="70" width="70" /></a>
+</p>
 </div>
 </p>    
 <br>
