@@ -40,16 +40,18 @@
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
 <div align="center">
  
-  </a>    
+  </a>
+
+   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
       <img  alt="C++" height="50px" style="padding-right:10px;" src="https://isocpp.org/assets/images/cpp_logo.png"/>
   </a>    
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img  alt="Python" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  </a>
+ 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
@@ -61,7 +63,15 @@
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
       <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  </a>
+   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+      <img  alt="JS" height="50px" style="padding-right:10px;" src="https://static.cdnlogo.com/logos/j/69/javascript.svg"/>
   </a> 
+
+ <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+      <img  alt="Firebase" height="50px" style="padding-right:10px;" src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png"/>
+  </a>
+  
   </a>
 </div>
 <br>
