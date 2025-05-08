@@ -18,12 +18,12 @@
 
 
 <p align="left">
-    
-<a href="https://linkedin.com/in/mdaquibaslam" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="mdaquibaslam" height="60" width="60" /></a>
-<a href="https://instagram.com/aquibaslam8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="aquibaslam8" height="60" width="60" /></a>
-<a href="https://www.hackerrank.com/aquibaslam9" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="aquibaslam9" height="60" width="60" /></a>
+
+
+<a href="https://linkedin.com/in/mdaquibaslam" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="mdaquibaslam" height="60" width="55" /></a>
+<a href="https://instagram.com/aquibaslam8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="aquibaslam8" height="60" width="55" /></a>
 <a href="https://www.leetcode.com/aquib01" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" alt="aquib01" height="60" width="60" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aquibaoesq" target="blank"><img align="center" src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" alt="aquibaoesq" height="60" width="60" /></a>
+
 </p>
 </div>
 </p>    
