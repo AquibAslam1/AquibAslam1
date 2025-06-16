@@ -73,6 +73,10 @@
  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="Firebase" height="50px" style="padding-right:10px;" src="https://firebase.google.com/static/images/brand-guidelines/logo-vertical.png"/>
   </a>
+
+   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+      <img  alt="Django" height="50px" style="padding-right:10px;" src="https://img.icons8.com/m_rounded/512/40C057/django.png"/>
+  </a>
   
   </a>
 </div>
