@@ -2,16 +2,18 @@
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 <h1 align="center">Hi 👋, I'm Md Aquib Aslam</h1>
-<h3 align="center">"Exploring Web Dev | Cybersecurity Enthusiast | Code, Coffee, and Creating Secure Online Experiences 🌐🔒"</h3>
+<h3 align="center">Full Stack Developer | QA Tester @ Test IO | Building Scalable Web Apps & Ensuring Bug-Free Experiences 🚀</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aquibaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="aquibaslam1" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=aquibaslam1&label=Profile%20views&color=0e75b6&style=flat" alt="aquibaslam1" />
+</p>
 
-- 🌱 I’m currently learning **Full stack web development**
+- 🌱 I’m currently growing as a **Full Stack Web Developer**
+- 🔍 Working as a **QA Tester** at **Test IO**
+- 📫 Reach me at: **aquibaslam9@gmail.com**
+- ⚡ Fun Fact: I build web apps by day and break them by night — full stack by role, bug hunter by soul! 🧪💻
 
-- 📫 How to reach me **aquibaslam9@gmail.com**
-
-- ⚡ Fun fact **"Did you know? My code not only runs flawlessly, but it also speaks fluent binary!" 🚀👾**
 
 
 - <h3 align="left">Connect with me:</h3>
@@ -22,7 +24,7 @@
 
 <a href="https://linkedin.com/in/mdaquibaslam" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" alt="mdaquibaslam" height="60" width="55" /></a>
 <a href="https://instagram.com/aquibaslam8" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="aquibaslam8" height="60" width="55" /></a>
-<a href="https://www.leetcode.com/aquib01" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png?f=webp" alt="aquib01" height="60" width="60" /></a>
+
 
 </p>
 </div>
